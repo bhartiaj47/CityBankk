@@ -14,8 +14,15 @@ public void m1() {
 public void m2() {
 	System.out.println(" you are the love charger");
 }
+
 public void m4() {
 	System.out.println(" m4 method");
+}
+
+public void m3() {
+	System.out.println(" m3 method");
+	
+
 }
 
 }
