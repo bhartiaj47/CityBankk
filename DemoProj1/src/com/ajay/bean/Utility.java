@@ -10,4 +10,9 @@ public void m1() {
 	System.out.println(" 1234");
 
 
-}}
+}
+public void m2() {
+	System.out.println(" you are the love charger");
+}
+
+}
