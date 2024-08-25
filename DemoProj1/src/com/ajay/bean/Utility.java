@@ -7,6 +7,7 @@ public Date getSysDate() {
 }
 public void m1() {
 	System.out.println("utility m1 method abcd");
+	System.out.println(" 1234");
 
 
 }}
